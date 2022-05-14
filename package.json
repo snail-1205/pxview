@@ -44,6 +44,7 @@
     "normalizr": "^3.2.3",
     "pixiv-api-client": "^0.25.0",
     "pixiv-novel-parser": "github:alphasp/pixiv-novel-parser",
+    "pod": "^0.9.0",
     "prop-types": "^15.5.10",
     "qs": "^6.5.0",
     "react": "16.13.1",
